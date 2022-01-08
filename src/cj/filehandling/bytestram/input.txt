@@ -1,0 +1,5 @@
+abc
+bbc
+cbc
+dbc
+ebc
